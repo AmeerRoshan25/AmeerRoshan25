@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameer Roshan..!</h1>
-<h3 align="center">A Passionate Web Developer and Machine learning Enthusiast..</h3>
+<h3 align="center">A Passionate Django Developer and Machine learning Enthusiast..</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -16,7 +16,7 @@
                I'm a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow.
 </div>
 
-- 💻 Specializing in **Django** and **Machine Learning**
+- 💻 Specializing in **Django** and **Machine Learning..!**
 
 - 🌱 Currently learning **MERN Stack..**
 
