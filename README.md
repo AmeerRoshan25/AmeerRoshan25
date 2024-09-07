@@ -1,4 +1,13 @@
-
+<h1 align="center">Hi 👋, I'm Ameer Roshan..!</h1>
+<h3 align="center">A Passionate Web Developer and Machine learning Enthusiast..</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AmeerRoshan25&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="AmeerRoshan25" style="width: 100%; max-width: 800px;" />
+  </a>
+</div>
 
 <!--
 **AmeerRoshan25/AmeerRoshan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
